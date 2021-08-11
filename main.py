@@ -1,6 +1,7 @@
 from tkinter import *
 root = Tk()
 root.title('Calculator')
+root.iconbitmap('icon.ico')
 root.geometry("361x381+500+200")
 
 # functions
